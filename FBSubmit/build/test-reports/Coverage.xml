@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="coverage.xsl" type="text/xsl"?>
+<!-- saved from url=(0022)http://www.ncover.org/ -->
+<coverage>
+  <module name="C:\Play\FBSubmit\build\Debug\UnitTests\FBSubmit.UnitTests.dll" assembly="FBSubmit.UnitTests">
+    <method name="get_Mocks" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="5" line="16" column="19" endline="16" endcolumn="34" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="5" line="16" column="35" endline="16" endcolumn="36" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="get_Container" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="21" column="19" endline="21" endcolumn="36" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="21" column="37" endline="21" endcolumn="38" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="get_PlayBackOnly" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="28" column="17" endline="28" endcolumn="22" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="31" column="17" endline="31" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="32" column="13" endline="32" endcolumn="14" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="get_Record" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="37" column="19" endline="37" endcolumn="41" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="37" column="42" endline="37" endcolumn="43" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="get_PlayBack" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="42" column="19" endline="42" endcolumn="43" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="42" column="44" endline="42" endcolumn="45" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="BaseSetup" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="3" line="48" column="13" endline="48" endcolumn="44" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="3" line="49" column="13" endline="49" endcolumn="59" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="3" line="50" column="13" endline="50" endcolumn="36" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="3" line="51" column="13" endline="51" endcolumn="32" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="3" line="52" column="9" endline="52" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="TearDown" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="3" line="57" column="13" endline="57" endcolumn="31" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="3" line="58" column="9" endline="58" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="After_Each_Spec" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="3" line="62" column="9" endline="62" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="BackToRecord" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="67" column="13" endline="67" endcolumn="44" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="68" column="9" endline="68" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="CreateSUT" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="2" line="75" column="13" endline="75" endcolumn="45" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="2" line="76" column="9" endline="76" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="CreateStrictMockOf" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="80" column="13" endline="80" endcolumn="52" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="81" column="9" endline="81" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="CreateMockEnumerable" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="85" column="13" endline="85" endcolumn="49" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="86" column="9" endline="86" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="Mock" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="10" line="90" column="13" endline="90" endcolumn="39" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="10" line="91" column="9" endline="91" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="ProvideAnImplementationOf" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="95" column="13" endline="95" endcolumn="115" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="96" column="9" endline="96" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="ProvideAnImplementationOf" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="100" column="13" endline="100" endcolumn="110" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="101" column="9" endline="101" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="CreateMock" class="FBSubmit.UnitTests.Utility.Specification">
+      <seqpnt visitcount="0" line="105" column="13" endline="105" endcolumn="43" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+      <seqpnt visitcount="0" line="106" column="9" endline="106" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\Specification.cs" />
+    </method>
+    <method name="Before_each_spec" class="FBSubmit.UnitTests.Unit.CommandFactoryTest">
+      <seqpnt visitcount="1" line="12" column="9" endline="12" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\CommandFactoryTest.cs" />
+    </method>
+    <method name="Should_Parse_Strings" class="FBSubmit.UnitTests.Unit.CommandFactoryTest">
+      <seqpnt visitcount="1" line="17" column="13" endline="17" endcolumn="63" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\CommandFactoryTest.cs" />
+      <seqpnt visitcount="1" line="19" column="13" endline="19" endcolumn="56" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\CommandFactoryTest.cs" />
+      <seqpnt visitcount="1" line="20" column="13" endline="20" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\CommandFactoryTest.cs" />
+      <seqpnt visitcount="1" line="22" column="17" endline="22" endcolumn="67" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\CommandFactoryTest.cs" />
+      <seqpnt visitcount="1" line="25" column="9" endline="25" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\CommandFactoryTest.cs" />
+    </method>
+    <method name="get_mockArguments" class="FBSubmit.UnitTests.Unit.BugzSubmitAdapterTest">
+      <seqpnt visitcount="9" line="13" column="19" endline="13" endcolumn="45" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="9" line="13" column="46" endline="13" endcolumn="47" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+    </method>
+    <method name="Before_each_spec" class="FBSubmit.UnitTests.Unit.BugzSubmitAdapterTest">
+      <seqpnt visitcount="1" line="19" column="9" endline="19" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+    </method>
+    <method name="Shold_Use_Arguments" class="FBSubmit.UnitTests.Unit.BugzSubmitAdapterTest">
+      <seqpnt visitcount="1" line="25" column="13" endline="25" endcolumn="69" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="27" column="13" endline="27" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="29" column="17" endline="31" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="33" column="17" endline="35" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="37" column="17" endline="39" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="41" column="17" endline="43" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="45" column="17" endline="47" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="49" column="17" endline="51" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="53" column="17" endline="55" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="57" column="17" endline="59" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="61" column="17" endline="63" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="66" column="13" endline="66" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="1" line="68" column="17" endline="68" endcolumn="30" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+      <seqpnt visitcount="0" line="70" column="9" endline="70" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\BugzSubmitAdapterTest.cs" />
+    </method>
+    <method name="ShouldBeExactly" class="FBSubmit.UnitTests.Utility.MbUnitExtensions">
+      <seqpnt visitcount="1" line="39" column="13" endline="39" endcolumn="59" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\MbUnitExtensions.cs" />
+      <seqpnt visitcount="1" line="40" column="9" endline="40" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\MbUnitExtensions.cs" />
+    </method>
+    <method name="ShouldBe" class="FBSubmit.UnitTests.Utility.MbUnitExtensions">
+      <seqpnt visitcount="0" line="44" column="13" endline="44" endcolumn="68" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\MbUnitExtensions.cs" />
+      <seqpnt visitcount="0" line="45" column="9" endline="45" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Utility\MbUnitExtensions.cs" />
+    </method>
+    <method name="get_mockAdapter" class="FBSubmit.UnitTests.Unit.FBSubmitterTest">
+      <seqpnt visitcount="1" line="13" column="19" endline="13" endcolumn="53" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="13" column="54" endline="13" endcolumn="55" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+    </method>
+    <method name="ShouldSubmitUsingArguments" class="FBSubmit.UnitTests.Unit.FBSubmitterTest">
+      <seqpnt visitcount="1" line="19" column="13" endline="19" endcolumn="57" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="21" column="13" endline="21" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="24" column="17" endline="26" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="29" column="13" endline="29" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="31" column="17" endline="31" endcolumn="48" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="32" column="17" endline="32" endcolumn="57" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+      <seqpnt visitcount="1" line="35" column="9" endline="35" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+    </method>
+    <method name="Before_each_spec" class="FBSubmit.UnitTests.Unit.FBSubmitterTest">
+      <seqpnt visitcount="1" line="39" column="9" endline="39" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\UnitTests\Unit\FBSubmitterTest.cs" />
+    </method>
+  </module>
+  <module name="C:\Play\FBSubmit\build\Debug\UnitTests\Rhino.Testing.dll" assembly="Rhino.Testing">
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AbstractMockingStrategy">
+      <seqpnt visitcount="4" line="11" column="9" endline="11" endcolumn="72" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+      <seqpnt visitcount="4" line="13" column="13" endline="13" endcolumn="34" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+      <seqpnt visitcount="4" line="14" column="9" endline="14" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+    </method>
+    <method name="get_AutoMock" class="Rhino.Testing.AutoMocking.AbstractMockingStrategy">
+      <seqpnt visitcount="0" line="18" column="19" endline="18" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+      <seqpnt visitcount="0" line="18" column="37" endline="18" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+    </method>
+    <method name="get_Mocks" class="Rhino.Testing.AutoMocking.AbstractMockingStrategy">
+      <seqpnt visitcount="2" line="23" column="19" endline="23" endcolumn="51" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+      <seqpnt visitcount="2" line="23" column="52" endline="23" endcolumn="53" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AbstractMockingStrategy.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AutoMockingComponentActivator">
+      <seqpnt visitcount="2" line="9" column="3" endline="11" endcolumn="52" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingComponentActivator.cs" />
+      <seqpnt visitcount="2" line="13" column="3" endline="13" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingComponentActivator.cs" />
+    </method>
+    <method name="SetUpProperties" class="Rhino.Testing.AutoMocking.AutoMockingComponentActivator">
+      <seqpnt visitcount="2" line="18" column="3" endline="18" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingComponentActivator.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="3" line="14" column="3" endline="14" endcolumn="64" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="16" column="3" endline="16" endcolumn="88" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="17" column="3" endline="17" endcolumn="110" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="19" column="3" endline="19" endcolumn="52" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="21" column="4" endline="21" endcolumn="19" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="22" column="3" endline="22" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="get_MockRepository" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="27" column="10" endline="27" endcolumn="24" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="27" column="25" endline="27" endcolumn="26" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="GetService" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="12" line="32" column="4" endline="32" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="10" line="33" column="5" endline="33" endcolumn="28" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="34" column="4" endline="34" endcolumn="16" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="12" line="35" column="3" endline="35" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="get_DefaultMockingStrategy" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="4" line="49" column="5" endline="49" endcolumn="42" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="51" column="6" endline="51" endcolumn="66" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="4" line="53" column="5" endline="53" endcolumn="37" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="4" line="54" column="4" endline="54" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="set_DefaultMockingStrategy" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="57" column="5" endline="57" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="58" column="4" endline="58" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="GetMockingStrategy" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="4" line="64" column="4" endline="64" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="66" column="5" endline="66" endcolumn="30" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="4" line="68" column="4" endline="68" endcolumn="34" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="4" line="69" column="3" endline="69" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="GetMockingStrategy" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="73" column="4" endline="73" endcolumn="42" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="74" column="3" endline="74" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="CanResolve" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="4" line="78" column="4" endline="78" endcolumn="48" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="4" line="79" column="3" endline="79" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Initialize" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="3" line="87" column="4" endline="87" endcolumn="91" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="88" column="4" endline="88" endcolumn="77" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="89" column="4" endline="89" endcolumn="65" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="3" line="90" column="3" endline="90" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Kernel_ComponentModelCreated" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="94" column="4" endline="94" endcolumn="45" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="95" column="5" endline="95" endcolumn="12" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="96" column="4" endline="96" endcolumn="75" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="97" column="3" endline="97" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="AddComponentIfMissing" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="101" column="4" endline="101" endcolumn="32" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="102" column="4" endline="102" endcolumn="50" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="103" column="5" endline="103" endcolumn="51" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="104" column="3" endline="104" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Create" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="126" column="4" endline="126" endcolumn="31" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="127" column="4" endline="127" endcolumn="24" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="128" column="3" endline="128" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Create" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="135" column="4" endline="135" endcolumn="31" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="136" column="4" endline="136" endcolumn="34" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="137" column="3" endline="137" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Get" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="12" line="152" column="4" endline="152" endcolumn="32" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="153" column="5" endline="153" endcolumn="19" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="12" line="154" column="4" endline="154" endcolumn="32" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="12" line="155" column="4" endline="155" endcolumn="18" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="10" line="156" column="5" endline="156" endcolumn="14" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="158" column="4" endline="158" endcolumn="83" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="159" column="4" endline="159" endcolumn="31" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="160" column="4" endline="160" endcolumn="20" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="12" line="161" column="3" endline="161" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Get" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="10" line="168" column="4" endline="168" endcolumn="31" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="10" line="169" column="3" endline="169" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="SetMockingStrategy" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="173" column="4" endline="173" endcolumn="33" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="174" column="3" endline="174" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="SetMockingStrategy" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="178" column="4" endline="178" endcolumn="44" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="179" column="3" endline="179" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="AddService" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="183" column="4" endline="183" endcolumn="30" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="184" column="3" endline="184" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="AddService" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="188" column="4" endline="188" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="189" column="3" endline="189" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Mark" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="196" column="4" endline="196" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="197" column="3" endline="197" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="CanResolveFromMockRepository" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="2" line="201" column="4" endline="202" endcolumn="73" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="2" line="203" column="3" endline="203" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="Mark" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="210" column="4" endline="210" endcolumn="28" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="211" column="3" endline="211" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="MarkMissing" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="218" column="4" endline="218" endcolumn="28" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="219" column="3" endline="219" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name="MarkMissing" class="Rhino.Testing.AutoMocking.AutoMockingContainer">
+      <seqpnt visitcount="0" line="227" column="4" endline="227" endcolumn="27" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+      <seqpnt visitcount="0" line="228" column="3" endline="228" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingContainer.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AutoMockingDependencyResolver">
+      <seqpnt visitcount="3" line="11" column="9" endline="11" endcolumn="78" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+      <seqpnt visitcount="3" line="13" column="13" endline="13" endcolumn="34" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+      <seqpnt visitcount="3" line="14" column="9" endline="14" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+    </method>
+    <method name="get_AutoMock" class="Rhino.Testing.AutoMocking.AutoMockingDependencyResolver">
+      <seqpnt visitcount="6" line="18" column="19" endline="18" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+      <seqpnt visitcount="6" line="18" column="37" endline="18" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+    </method>
+    <method name="CanResolve" class="Rhino.Testing.AutoMocking.AutoMockingDependencyResolver">
+      <seqpnt visitcount="4" line="26" column="13" endline="27" endcolumn="63" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+      <seqpnt visitcount="4" line="28" column="9" endline="28" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+    </method>
+    <method name="Resolve" class="Rhino.Testing.AutoMocking.AutoMockingDependencyResolver">
+      <seqpnt visitcount="2" line="33" column="13" endline="33" endcolumn="56" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+      <seqpnt visitcount="2" line="34" column="9" endline="34" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingDependencyResolver.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AutoMockingFacility">
+      <seqpnt visitcount="3" line="11" column="9" endline="11" endcolumn="68" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+      <seqpnt visitcount="3" line="13" column="13" endline="13" endcolumn="34" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+      <seqpnt visitcount="3" line="14" column="9" endline="14" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+    </method>
+    <method name="Init" class="Rhino.Testing.AutoMocking.AutoMockingFacility">
+      <seqpnt visitcount="3" line="20" column="13" endline="20" endcolumn="90" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+      <seqpnt visitcount="3" line="21" column="13" endline="21" endcolumn="97" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+      <seqpnt visitcount="3" line="22" column="9" endline="22" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+    </method>
+    <method name="Terminate" class="Rhino.Testing.AutoMocking.AutoMockingFacility">
+      <seqpnt visitcount="0" line="26" column="9" endline="26" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+    </method>
+    <method name="OnComponentModelCreated" class="Rhino.Testing.AutoMocking.AutoMockingFacility">
+      <seqpnt visitcount="2" line="32" column="13" endline="32" endcolumn="55" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+      <seqpnt visitcount="2" line="33" column="9" endline="33" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingFacility.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem">
+      <seqpnt visitcount="3" line="12" column="3" endline="12" endcolumn="72" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="3" line="14" column="4" endline="14" endcolumn="35" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="3" line="15" column="3" endline="15" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="Contains" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem">
+      <seqpnt visitcount="2" line="19" column="4" endline="19" endcolumn="31" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="20" column="5" endline="20" endcolumn="17" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="22" column="4" endline="22" endcolumn="61" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="23" column="3" endline="23" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="GetHandler" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem">
+      <seqpnt visitcount="4" line="27" column="4" endline="27" endcolumn="48" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="4" line="28" column="4" endline="28" endcolumn="24" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="29" column="5" endline="29" endcolumn="20" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="30" column="4" endline="30" endcolumn="58" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="31" column="5" endline="31" endcolumn="50" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="32" column="4" endline="32" endcolumn="19" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="4" line="33" column="3" endline="33" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="2" line="41" column="4" endline="41" endcolumn="72" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="43" column="5" endline="43" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="44" column="5" endline="44" endcolumn="28" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="45" column="5" endline="45" endcolumn="68" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="46" column="4" endline="46" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="add_OnHandlerStateChanged" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="50" column="11" endline="50" endcolumn="12" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="remove_OnHandlerStateChanged" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="51" column="14" endline="51" endcolumn="15" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="Init" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="56" column="4" endline="56" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="Resolve" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="60" column="5" endline="60" endcolumn="41" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="61" column="5" endline="61" endcolumn="14" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="62" column="4" endline="62" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="Release" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="66" column="4" endline="66" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="AddCustomDependencyValue" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="70" column="4" endline="70" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="RemoveCustomDependencyValue" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="74" column="4" endline="74" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="HasCustomParameter" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="78" column="5" endline="78" endcolumn="18" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="79" column="4" endline="79" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="get_CurrentState" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="83" column="11" endline="83" endcolumn="37" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="83" column="38" endline="83" endcolumn="39" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="get_ComponentModel" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="2" line="88" column="11" endline="88" endcolumn="24" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="2" line="88" column="25" endline="88" endcolumn="26" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="get_Service" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="93" column="11" endline="93" endcolumn="32" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="93" column="33" endline="93" endcolumn="34" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="Resolve" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="98" column="5" endline="98" endcolumn="41" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name="CanResolve" class="Rhino.Testing.AutoMocking.AutoMockingNamingSubSystem+AutoMocking">
+      <seqpnt visitcount="0" line="103" column="5" endline="103" endcolumn="18" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+      <seqpnt visitcount="0" line="104" column="4" endline="104" endcolumn="5" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\AutoMockingNamingSubSystem.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.DynamicMockingStrategy">
+      <seqpnt visitcount="2" line="8" column="9" endline="8" endcolumn="88" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\DynamicMockingStrategy.cs" />
+      <seqpnt visitcount="2" line="10" column="9" endline="10" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\DynamicMockingStrategy.cs" />
+    </method>
+    <method name="Create" class="Rhino.Testing.AutoMocking.DynamicMockingStrategy">
+      <seqpnt visitcount="2" line="14" column="13" endline="14" endcolumn="44" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\DynamicMockingStrategy.cs" />
+      <seqpnt visitcount="2" line="15" column="9" endline="15" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\DynamicMockingStrategy.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.NonMockedStrategy">
+      <seqpnt visitcount="2" line="10" column="9" endline="10" endcolumn="83" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\NonMockedStrategy.cs" />
+      <seqpnt visitcount="2" line="12" column="9" endline="12" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\NonMockedStrategy.cs" />
+    </method>
+    <method name="Create" class="Rhino.Testing.AutoMocking.NonMockedStrategy">
+      <seqpnt visitcount="0" line="18" column="13" endline="18" endcolumn="42" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\NonMockedStrategy.cs" />
+      <seqpnt visitcount="0" line="19" column="9" endline="19" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\NonMockedStrategy.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.StandardMockingStrategy">
+      <seqpnt visitcount="0" line="10" column="9" endline="10" endcolumn="89" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StandardMockingStrategy.cs" />
+      <seqpnt visitcount="0" line="11" column="9" endline="11" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StandardMockingStrategy.cs" />
+      <seqpnt visitcount="0" line="12" column="9" endline="12" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StandardMockingStrategy.cs" />
+    </method>
+    <method name="Create" class="Rhino.Testing.AutoMocking.StandardMockingStrategy">
+      <seqpnt visitcount="0" line="17" column="9" endline="17" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StandardMockingStrategy.cs" />
+      <seqpnt visitcount="0" line="18" column="13" endline="18" endcolumn="43" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StandardMockingStrategy.cs" />
+      <seqpnt visitcount="0" line="19" column="9" endline="19" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StandardMockingStrategy.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.StubbedStrategy">
+      <seqpnt visitcount="0" line="18" column="9" endline="19" endcolumn="29" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="20" column="9" endline="20" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="21" column="13" endline="21" endcolumn="62" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="22" column="9" endline="22" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+    </method>
+    <method name="Create" class="Rhino.Testing.AutoMocking.StubbedStrategy">
+      <seqpnt visitcount="0" line="27" column="9" endline="27" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="28" column="13" endline="28" endcolumn="46" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="29" column="13" endline="29" endcolumn="47" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="30" column="13" endline="30" endcolumn="27" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+      <seqpnt visitcount="0" line="31" column="9" endline="31" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\StubbedStrategy.cs" />
+    </method>
+    <method name=".ctor" class="Rhino.Testing.AutoMocking.TypeMarker">
+      <seqpnt visitcount="2" line="17" column="9" endline="17" endcolumn="72" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="2" line="19" column="13" endline="19" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="2" line="20" column="13" endline="20" endcolumn="26" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="2" line="21" column="9" endline="21" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+    </method>
+    <method name="Dynamic" class="Rhino.Testing.AutoMocking.TypeMarker">
+      <seqpnt visitcount="0" line="25" column="13" endline="25" endcolumn="92" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="0" line="26" column="9" endline="26" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+    </method>
+    <method name="Stubbed" class="Rhino.Testing.AutoMocking.TypeMarker">
+      <seqpnt visitcount="0" line="30" column="13" endline="30" endcolumn="85" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="0" line="31" column="9" endline="31" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+    </method>
+    <method name="NotMocked" class="Rhino.Testing.AutoMocking.TypeMarker">
+      <seqpnt visitcount="2" line="35" column="13" endline="35" endcolumn="87" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="2" line="36" column="9" endline="36" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+    </method>
+    <method name="Missing" class="Rhino.Testing.AutoMocking.TypeMarker">
+      <seqpnt visitcount="0" line="40" column="13" endline="40" endcolumn="44" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="0" line="41" column="9" endline="41" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+    </method>
+    <method name="NonDynamic" class="Rhino.Testing.AutoMocking.TypeMarker">
+      <seqpnt visitcount="0" line="45" column="13" endline="45" endcolumn="93" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+      <seqpnt visitcount="0" line="46" column="9" endline="46" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\AutoMocking\TypeMarker.cs" />
+    </method>
+    <method name="get_Container" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="14" column="17" endline="14" endcolumn="18" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="14" column="19" endline="14" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="14" column="37" endline="14" endcolumn="38" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="InitializeContainer" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="18" column="9" endline="18" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="19" column="13" endline="19" endcolumn="44" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="20" column="13" endline="20" endcolumn="59" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="21" column="13" endline="21" endcolumn="36" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="22" column="9" endline="22" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="DestroyContainer" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="25" column="9" endline="25" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="26" column="13" endline="26" endcolumn="33" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="27" column="9" endline="27" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="get_Record" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="31" column="17" endline="31" endcolumn="18" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="31" column="19" endline="31" endcolumn="43" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="31" column="44" endline="31" endcolumn="45" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="get_Playback" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="36" column="17" endline="36" endcolumn="18" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="36" column="19" endline="36" endcolumn="45" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="36" column="46" endline="36" endcolumn="47" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="get_PlaybackOnly" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="42" column="13" endline="42" endcolumn="14" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="43" column="17" endline="43" endcolumn="22" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="43" column="32" endline="43" endcolumn="33" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="43" column="34" endline="43" endcolumn="35" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="44" column="17" endline="44" endcolumn="43" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="45" column="13" endline="45" endcolumn="14" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="Mock" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="49" column="9" endline="49" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="50" column="13" endline="50" endcolumn="39" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="51" column="9" endline="51" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="CreateSUT" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="54" column="9" endline="54" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="55" column="13" endline="55" endcolumn="45" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="56" column="9" endline="56" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="ProvideAnImplementationOf" class="Rhino.Testing.Utility.BaseTest">
+      <seqpnt visitcount="0" line="59" column="9" endline="59" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="60" column="13" endline="60" endcolumn="63" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+      <seqpnt visitcount="0" line="61" column="9" endline="61" endcolumn="10" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\Utility\BaseTest.cs" />
+    </method>
+    <method name="GetElement" class="Rhino.Testing.CommentReader">
+      <seqpnt visitcount="0" line="26" column="3" endline="26" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="27" column="4" endline="27" endcolumn="45" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="28" column="4" endline="28" endcolumn="48" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="30" column="4" endline="31" endcolumn="60" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="33" column="4" endline="37" endcolumn="19" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="39" column="4" endline="39" endcolumn="21" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="40" column="5" endline="40" endcolumn="26" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="42" column="17" endline="42" endcolumn="105" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+      <seqpnt visitcount="0" line="43" column="3" endline="43" endcolumn="4" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+    </method>
+    <method name=".cctor" class="Rhino.Testing.CommentReader">
+      <seqpnt visitcount="0" line="22" column="3" endline="22" endcolumn="73" excluded="false" document="c:\svn\OpenSource\rhino\trunk\rhino-testing\Rhino.Testing\CommentReader.cs" />
+    </method>
+  </module>
+  <module name="C:\Play\FBSubmit\build\Debug\UnitTests\FBSubmit.exe" assembly="FBSubmit">
+    <method name=".ctor" class="FBSubmit.FBSubmitConsole.AppController">
+      <seqpnt visitcount="0" line="7" column="9" endline="7" endcolumn="47" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+      <seqpnt visitcount="0" line="8" column="9" endline="8" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+      <seqpnt visitcount="0" line="9" column="13" endline="9" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+      <seqpnt visitcount="0" line="10" column="9" endline="10" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+    </method>
+    <method name="Execute" class="FBSubmit.FBSubmitConsole.AppController">
+      <seqpnt visitcount="0" line="13" column="9" endline="13" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+      <seqpnt visitcount="0" line="14" column="13" endline="14" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+      <seqpnt visitcount="0" line="15" column="9" endline="15" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\AppController.cs" />
+    </method>
+    <method name=".ctor" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="19" column="9" endline="27" endcolumn="50" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="28" column="9" endline="28" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="29" column="13" endline="29" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="30" column="13" endline="30" endcolumn="39" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="31" column="13" endline="31" endcolumn="41" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="32" column="13" endline="32" endcolumn="35" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="33" column="13" endline="33" endcolumn="47" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="34" column="13" endline="34" endcolumn="41" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="35" column="13" endline="35" endcolumn="57" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="36" column="13" endline="36" endcolumn="41" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="37" column="13" endline="37" endcolumn="51" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="38" column="9" endline="38" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_URL" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="44" column="17" endline="44" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="44" column="19" endline="44" endcolumn="32" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="44" column="33" endline="44" endcolumn="34" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_OpenAsUser" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="49" column="17" endline="49" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="49" column="19" endline="49" endcolumn="39" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="49" column="40" endline="49" endcolumn="41" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_ProjectName" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="54" column="17" endline="54" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="54" column="19" endline="54" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="54" column="41" endline="54" endcolumn="42" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_AreaName" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="59" column="17" endline="59" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="59" column="19" endline="59" endcolumn="37" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="59" column="38" endline="59" endcolumn="39" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_EmailToReplyTo" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="64" column="17" endline="64" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="64" column="19" endline="64" endcolumn="43" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="64" column="44" endline="64" endcolumn="45" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_DefaultReplyMessage" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="69" column="17" endline="69" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="69" column="19" endline="69" endcolumn="48" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="69" column="49" endline="69" endcolumn="50" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_ForceNewBug" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="74" column="17" endline="74" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="74" column="19" endline="74" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="74" column="41" endline="74" endcolumn="42" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_Description" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="79" column="17" endline="79" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="79" column="19" endline="79" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="79" column="41" endline="79" endcolumn="42" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="get_ExtraInformation" class="FBSubmit.FBSubmitConsole.Arguments">
+      <seqpnt visitcount="0" line="84" column="17" endline="84" endcolumn="18" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="84" column="19" endline="84" endcolumn="45" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+      <seqpnt visitcount="0" line="84" column="46" endline="84" endcolumn="47" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\Arguments.cs" />
+    </method>
+    <method name="CreateCommand" class="FBSubmit.FBSubmitConsole.CommandFactory">
+      <seqpnt visitcount="1" line="39" column="13" endline="39" endcolumn="71" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\CommandFactory.cs" />
+      <seqpnt visitcount="0" line="41" column="17" endline="41" endcolumn="75" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\CommandFactory.cs" />
+      <seqpnt visitcount="0" line="42" column="17" endline="52" endcolumn="34" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\CommandFactory.cs" />
+      <seqpnt visitcount="1" line="54" column="13" endline="54" endcolumn="38" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\CommandFactory.cs" />
+      <seqpnt visitcount="1" line="55" column="9" endline="55" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\CommandFactory.cs" />
+    </method>
+    <method name=".ctor" class="FBSubmit.FBSubmitConsole.BugzSubmitAdapter">
+      <seqpnt visitcount="1" line="9" column="9" endline="9" endcolumn="55" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\BugzSubmitAdapter.cs" />
+      <seqpnt visitcount="1" line="11" column="13" endline="11" endcolumn="40" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\BugzSubmitAdapter.cs" />
+      <seqpnt visitcount="1" line="12" column="9" endline="12" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\BugzSubmitAdapter.cs" />
+    </method>
+    <method name="Submit" class="FBSubmit.FBSubmitConsole.BugzSubmitAdapter">
+      <seqpnt visitcount="1" line="18" column="13" endline="26" endcolumn="65" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\BugzSubmitAdapter.cs" />
+      <seqpnt visitcount="0" line="27" column="9" endline="27" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\BugzSubmitAdapter.cs" />
+    </method>
+    <method name="Main" class="FBSubmit.FBSubmitConsole.App">
+      <seqpnt visitcount="0" line="9" column="3" endline="9" endcolumn="4" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\App.cs" />
+      <seqpnt visitcount="0" line="10" column="7" endline="10" endcolumn="54" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\App.cs" />
+      <seqpnt visitcount="0" line="11" column="7" endline="11" endcolumn="54" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\App.cs" />
+      <seqpnt visitcount="0" line="13" column="13" endline="13" endcolumn="71" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\App.cs" />
+      <seqpnt visitcount="0" line="14" column="10" endline="14" endcolumn="34" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\App.cs" />
+      <seqpnt visitcount="0" line="15" column="3" endline="15" endcolumn="4" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\App.cs" />
+    </method>
+    <method name=".ctor" class="FBSubmit.FBSubmitConsole.FBSubmitter">
+      <seqpnt visitcount="1" line="37" column="9" endline="37" endcolumn="55" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\FBSubmitter.cs" />
+      <seqpnt visitcount="1" line="39" column="13" endline="39" endcolumn="36" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\FBSubmitter.cs" />
+      <seqpnt visitcount="1" line="40" column="9" endline="40" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\FBSubmitter.cs" />
+    </method>
+    <method name="Submit" class="FBSubmit.FBSubmitConsole.FBSubmitter">
+      <seqpnt visitcount="1" line="46" column="13" endline="46" endcolumn="37" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\FBSubmitter.cs" />
+      <seqpnt visitcount="1" line="47" column="9" endline="47" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\FBSubmitter.cs" />
+    </method>
+    <method name="Execute" class="FBSubmit.FBSubmitConsole.HelpCommand">
+      <seqpnt visitcount="0" line="41" column="13" endline="41" endcolumn="49" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\HelpCommand.cs" />
+      <seqpnt visitcount="0" line="42" column="9" endline="42" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\HelpCommand.cs" />
+    </method>
+    <method name=".ctor" class="FBSubmit.FBSubmitConsole.SubmitCommand">
+      <seqpnt visitcount="0" line="7" column="9" endline="15" endcolumn="54" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommand.cs" />
+      <seqpnt visitcount="0" line="17" column="13" endline="26" endcolumn="76" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommand.cs" />
+      <seqpnt visitcount="0" line="27" column="9" endline="27" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommand.cs" />
+    </method>
+    <method name="Execute" class="FBSubmit.FBSubmitConsole.SubmitCommand">
+      <seqpnt visitcount="0" line="33" column="13" endline="33" endcolumn="30" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommand.cs" />
+      <seqpnt visitcount="0" line="34" column="9" endline="34" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommand.cs" />
+    </method>
+    <method name="WithUrl" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="19" column="13" endline="19" endcolumn="31" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="20" column="13" endline="20" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="21" column="9" endline="21" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="Build" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="26" column="13" endline="34" endcolumn="51" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="35" column="9" endline="35" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithUser" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="39" column="13" endline="39" endcolumn="27" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="40" column="13" endline="40" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="41" column="9" endline="41" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithProject" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="45" column="13" endline="45" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="46" column="13" endline="46" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="47" column="9" endline="47" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithArea" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="51" column="13" endline="51" endcolumn="31" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="52" column="13" endline="52" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="53" column="9" endline="53" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithEmail" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="57" column="13" endline="57" endcolumn="29" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="58" column="13" endline="58" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="59" column="9" endline="59" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithForceNew" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="64" column="13" endline="64" endcolumn="49" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="66" column="13" endline="66" endcolumn="32" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="67" column="13" endline="67" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="68" column="9" endline="68" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithDefaultMessage" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="72" column="13" endline="72" endcolumn="37" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="73" column="13" endline="73" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="74" column="9" endline="74" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithDescription" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="78" column="13" endline="78" endcolumn="34" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="79" column="13" endline="79" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="80" column="9" endline="80" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="WithExtraInfo" class="FBSubmit.FBSubmitConsole.SubmitCommandBuilder">
+      <seqpnt visitcount="0" line="84" column="13" endline="84" endcolumn="37" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="85" column="13" endline="85" endcolumn="25" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+      <seqpnt visitcount="0" line="86" column="9" endline="86" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitCommandBuilder.cs" />
+    </method>
+    <method name="IsSatisifiedBy" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="1" line="39" column="13" endline="39" endcolumn="34" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="1" line="41" column="17" endline="41" endcolumn="30" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="44" column="13" endline="44" endcolumn="35" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="46" column="17" endline="54" endcolumn="46" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="57" column="13" endline="64" endcolumn="44" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="1" line="65" column="9" endline="65" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="ExtraInfoOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="69" column="13" endline="69" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="70" column="9" endline="70" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="DescriptionOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="74" column="13" endline="74" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="75" column="9" endline="75" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="DefaultMsgOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="79" column="13" endline="79" endcolumn="30" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="80" column="9" endline="80" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="ForceNewOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="86" column="17" endline="86" endcolumn="55" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="87" column="17" endline="87" endcolumn="29" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="89" column="13" endline="89" endcolumn="38" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="91" column="17" endline="91" endcolumn="30" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="93" column="9" endline="93" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="EmailOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="97" column="13" endline="97" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="98" column="9" endline="98" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="AreaOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="102" column="13" endline="102" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="103" column="9" endline="103" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="ProjectOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="107" column="13" endline="107" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="108" column="9" endline="108" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="UserOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="112" column="13" endline="112" endcolumn="33" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="113" column="9" endline="113" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+    <method name="UrlOk" class="FBSubmit.FBSubmitConsole.SubmitWithFullInfoSpecification">
+      <seqpnt visitcount="0" line="117" column="13" endline="117" endcolumn="131" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+      <seqpnt visitcount="0" line="118" column="9" endline="118" endcolumn="10" excluded="false" document="c:\Play\FBSubmit\src\FBSubmitConsole\SubmitWithFullInfoSpecification.cs" />
+    </method>
+  </module>
+</coverage>
